@@ -1,4 +1,4 @@
-## Hi there 👋
+Compte créé par <Veronique27> pour le cours SCI6201 de l'EBSI.
 
 <!--
 **Veronique27/Veronique27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
